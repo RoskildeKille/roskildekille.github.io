@@ -16,6 +16,10 @@ body {
     margin: 0;
 }
 
+ul {
+    margin: 0;
+}
+
 /* WRAPPER */
 
 .wrapper {
@@ -31,7 +35,9 @@ body {
 }
 
 .menu {
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
 }
 
 /* BANNER */
