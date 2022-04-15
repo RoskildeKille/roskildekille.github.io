@@ -34,7 +34,7 @@ ul {
     background: green;
 }
 
-.menu {
+.menu ul {
     display: flex;
     flex-direction: row;
     justify-content: end;
