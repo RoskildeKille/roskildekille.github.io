@@ -19,3 +19,15 @@ body {
 .wrapper {
     padding: 10px;
 }
+
+/* BANNER */
+
+.banner {
+    background: url("https://wallpaperaccess.com/full/2311863.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-sizing: border-box;
+    padding-bottom: 250px;
+    max-height: 1080px;
+}
