@@ -1,0 +1,21 @@
+/* STYLES */
+
+
+
+/* TEXT */
+
+h1 {
+    color: red;
+}
+
+/* BODY */
+
+body {
+    margin: 0;
+}
+
+/* WRAPPER */
+
+.wrapper {
+    padding: 10px;
+}
