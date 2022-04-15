@@ -6,6 +6,8 @@
 
 h1 {
     color: red;
+
+    margin: 0;
 }
 
 /* BODY */
@@ -28,6 +30,15 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     box-sizing: border-box;
-    padding-bottom: 250px;
-    max-height: 1080px;
+    padding-bottom: 600px;
+}
+
+/* SECTION 1 */
+
+.section-1 {
+    display: flex;
+}
+
+.section-1 h1 {
+    margin: 0 auto;
 }
