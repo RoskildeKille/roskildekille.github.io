@@ -1,7 +1,5 @@
 /* STYLES */
 
-
-
 /* TEXT */
 
 h1 {
@@ -12,10 +10,7 @@ h1 {
 
 /* BODY */
 
-body {
-    margin: 0;
-}
-
+body,
 ul {
     margin: 0;
 }
